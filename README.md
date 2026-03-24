@@ -197,4 +197,18 @@ interests:
 <img src="https://profile-counter.glitch.me/WalterCun/count.svg" alt="Visit Counter"/>
 </p>
 
+-----
+
+<!-- Estadísticas de GitHub -->
+<img src="https://github-readme-stats.vercel.app/api?username=WalterCun&show_icons=true&theme=radical"/>
+
+<!-- Lenguajes más usados -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterCun&layout=compact&theme=radical"/>
+
+<!-- Racha de contribuciones -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WalterCun&theme=radical"/>
+
+<!-- Contador de visitas -->
+<img src="https://komarev.com/ghpvc/?username=WalterCun&style=flat-square"/>
+
 
