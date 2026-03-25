@@ -264,217 +264,232 @@ CONOCIMIENTO TECNOLÓGICO
 
 <br>
 
-<!-- TABLA 1/4: Lenguajes • Frontend • Backend -->
-<table width="100%">
-<tr>
-<!-- COLUMNA 1: Lenguajes de Programación -->
-<td align="center" width="33%">
-<p align="center"><b style="font-size: 1.5em;">💻 LENGUAJES DE PROGRAMACION</b></p>
-<!-- PARAM: Cada <a> enlaza a docs oficiales, <img> muestra icono devicon -->
-<a href="https://www.python.org/" title="Python 3.10+"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/></a>
-<a href="https://dotnet.microsoft.com/languages/csharp" title="C# .NET"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"/></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript ES2022"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript 5+"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/></a>
-<a href="https://dart.dev/" title="Dart"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" alt="Dart"/></a>
-<a href="https://kotlinlang.org/" title="Kotlin"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/></a>
-<a href="https://www.swift.org/" title="Swift"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" alt="Swift"/></a>
-<a href="https://docs.oracle.com/javase/" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/></a>
-</td>
-<!-- COLUMNA 2: Frontend & UI -->
-<td align="center" width="33%">
-  <p align="center"><b style="font-size: 1.5em;">🎨 FRONTEND & UI</b></p>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS"/></a>
-  <a href="https://html.spec.whatwg.org/" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML"/></a>
-  <a href="https://vuejs.org/" title="Vue.js 3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue"/></a>
-  <a href="https://astro.build/" title="Astro"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="40" alt="Astro"/></a>
-  <a href="https://react.dev/" title="React 18+"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/></a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind"/></a>
-  <a href="https://flutter.dev/" title="Flutter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/></a>
-</td>
-<!-- COLUMNA 3: Backend & APIs -->
-<td align="center" width="33%">
-  <p align="center"><b style="font-size: 1.5em;">⚙️ BACKEND & APIs</b></p>
-  <a href="https://www.djangoproject.com/" title="Django 5+"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django"/></a>
-  <a href="https://www.django-rest-framework.org/" title="Django REST Framework"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" height="40" alt="DRF"/></a>
-  <a href="https://django-ninja.dev/" title="Django Ninja (FastAPI-style)"><img src="https://django-ninja.dev/img/docs-logo.png" width="40" alt="Django Ninja"/></a>
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/></a>
-  <a href="https://dotnet.microsoft.com/" title=".NET 8"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" alt=".NET"/></a>
-  <a href="https://quarkus.io/" title="Quarkus"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" width="40" alt="Quarkus"/></a>
-</td>
-</tr>
-</table>
-<br>
-<!-- TABLA 2/4: Bases de Datos • FullStack • Cloud -->
-<table width="100%">
-<tr>
-<!-- COLUMNA 1: Bases de Datos -->
-<td align="center" width="33%">
-<p align="center"><b style="font-size: 1.5em;">🗄️ BASE DE DATOS</b></p>
-<a href="https://www.microsoft.com/sql-server" title="SQL Server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server"/></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL 15+"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/></a>
-<a href="https://www.oracle.com/database/" title="Oracle DB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/></a>
-<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/></a>
-<a href="https://www.sqlite.org/" title="SQLite"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="40" alt="MariaDB"/></a>
-</td>
-<!-- COLUMNA 2: FullStack Frameworks -->
-<td align="center" width="33%">
-  <p align="center"><b style="font-size: 1.5em;">🧩 FULLSTACK</b></p>
-  <a href="https://www.djangoproject.com/" title="Django (Fullstack)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django"/>
-  </a>
-  <a href="https://nestjs.com/" title="NestJS (Node.js)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" alt="NestJS"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" title=".NET FullStack">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET Core"/>
-  </a>
-</td>
-<!-- COLUMNA 3: Cloud & Hosting -->
-<td align="center" width="33%">
-  <p align="center"><b style="font-size: 1.5em;">☁️ CLAUD & HOSTING</b></p>
-  <a href="https://cloud.google.com/" title="Google Cloud Platform">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>
-  </a>
-  <a href="https://azure.microsoft.com/" title="Microsoft Azure">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" alt="Azure"/>
-  </a>
-  <a href="https://aws.amazon.com/" title="Amazon Web Services">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
-  </a>
-  <a href="https://www.heroku.com/" title="Heroku">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="40" alt="Heroku"/>
-  </a>
-  <a href="https://vercel.com/" title="Vercel (Frontend)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" alt="Vercel"/>
-  </a>
-  <a href="https://railway.app/" title="Railway.app">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" width="40" alt="Railway"/>
-  </a>
-</td>
-</tr>
-</table>
 
-<br>
+<!-- TABLA UNIFICADA: Conocimiento Tecnológico -->
+<!-- 
+================================================================================
+🧰 CONOCIMIENTO TECNOLÓGICO - TABLA UNIFICADA (3×4)
+• Estructura: 1 fila × 3 columnas, cada columna con 4 categorías apiladas
+• Total: 12 categorías tecnológicas organizadas lógicamente
+• Cada categoría: título + íconos con espaciado vertical claro
 
-<!-- TABLA 3/4: DevOps • Automatización • Infraestructura -->
+🔧 GUÍA DE EDICIÓN:
+• Para agregar un ícono: pegar línea <a><img></a> dentro de su categoría
+• Espaciado horizontal: usar &nbsp; entre íconos de la misma línea
+• Espaciado vertical entre categorías: <br/><br/><br/> (triple salto)
+• Espaciado vertical entre íconos: <br/> (simple) o <br/><br/> (doble)
+• Tamaño de ícono: width="40" (mantener consistente)
+
+🎨 Estilo aplicado:
+• Padding en celda: 16px para margen interno amplio
+• Títulos con margin-bottom: 12px para separar del contenido
+• Categorías separadas por triple <br/> para "aire" visual
+• Íconos con &nbsp; para separación horizontal sin colapsar
+
+🔗 Referencias:
+• Iconos: https://devicon.dev/ | https://simpleicons.org/
+• Docs oficiales: cada href apunta a la documentación del tecnología
+================================================================================
+-->
+
+<!-- 
+================================================================================
+🧰 CONOCIMIENTO TECNOLÓGICO - 12 CELDAS INDEPENDIENTES (4×3)
+• Estructura: 4 filas × 3 columnas = 12 celdas (1 categoría por celda)
+• Cada celda: título + íconos con espaciado generoso interno
+• Diseño optimizado para GitHub Markdown (scroll horizontal en móvil)
+
+🔧 GUÍA DE EDICIÓN:
+• Para agregar un ícono: pegar <a><img></a> al final de su categoría
+• Espaciado horizontal entre íconos: usar &nbsp; (no espacios normales)
+• Espaciado vertical dentro de categoría: <br/> (simple) o <br/><br/> (doble)
+• Tamaño consistente: width="40" para todos los íconos
+
+🎨 Estilo aplicado:
+• Padding celda: 16px 12px para "aire" interno
+• Títulos: margin-bottom 12px + font-size 1.3em
+• Íconos: &nbsp; entre ellos, alt y title para accesibilidad
+• Alineación: vertical-align: top para consistencia visual
+
+🔗 Referencias:
+• Iconos: https://devicon.dev/ | https://simpleicons.org/
+• Cada href apunta a documentación oficial del tecnología
+================================================================================
+-->
+
 <table width="100%">
-<tr>
-<!-- COLUMNA 1: CI/CD & DevOps Tools -->
-<td align="center" width="33%">
-<p align="center"><b style="font-size: 1.5em;">⚡ CI/CD & DEVOPS</b></p>
-<a href="https://github.com/features/actions" title="GitHub Actions">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" alt="GitHub Actions"/>
-</a>
-<a href="https://about.gitlab.com/" title="GitLab CI">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/>
-</a>
-<!-- Jenkins comentado: descomentar si lo usas activamente -->
-<!-- <a href="https://www.jenkins.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
-</a> -->
-<a href="https://azure.microsoft.com/products/devops/pipelines/" title="Azure Pipelines">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" alt="Azure DevOps"/>
-</a>
-</td>
-<!-- COLUMNA 2: Automatización & Testing -->
-<td align="center" width="33%">
-  <p align="center"><b style="font-size: 1.5em;">🤖 AUTOMATIZACIÓN</b></p>
-  <a href="https://www.python.org/" title="Python para scripting">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  </a>
-  <a href="https://playwright.dev/" title="Playwright (E2E Testing)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40" alt="Playwright"/>
-  </a>
-  <!-- <a href="https://www.selenium.dev/" title="Selenium (opcional)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" alt="Selenium"/>
-  </a> -->
-</td>
-<!-- COLUMNA 3: Infraestructura & Monitoring -->
-<td align="center" width="33%">
-  <p align="center"><b style="font-size: 1.5em;">🐳 INFRAESTRUCTURA</b></p>
-  <a href="https://www.docker.com/" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  </a>
-  <a href="https://kubernetes.io/" title="Kubernetes">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
-  </a>
-  <!-- <a href="https://www.terraform.io/" title="Terraform (IaC)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
-  </a> -->
-  <!-- <a href="https://www.ansible.com/" title="Ansible">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" alt="Ansible"/>
-  </a> -->
-  <!-- <a href="https://www.nginx.com/" title="Nginx">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" alt="Nginx"/>
-  </a> -->
-  <!-- <a href="https://grafana.com/" title="Grafana (Monitoring)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" alt="Grafana"/>
-  </a> -->
-  <a href="https://www.linux.org/" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  </a>
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- TABLA 4/4: Herramientas • Mobile • (Espacio para expansión) -->
-<table width="100%">
-<tr>
-<!-- COLUMNA 1: Herramientas de Productividad -->
-<td align="center" width="33%">
-<p align="center"><b style="font-size: 1.5em;">🧰 HERRAMIENTAS & PRODUCTIVIDAD</b></p>
-<a href="https://www.notion.so/" title="Notion (Docs/PM)">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="40" alt="Notion"/>
-</a>
-<a href="https://www.microsoft.com/microsoft-teams/" title="Microsoft Teams">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Microsoft_Office_Teams_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Teams_%282025%E2%80%93present%29.svg.png" width="40" alt="Teams"/>
-</a>
-<a href="https://telegram.org/" title="Telegram (Comms/Bots)">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" alt="Telegram"/>
-</a>
-<a href="https://workspace.google.com/" title="Google Workspace">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" alt="Google Workspace"/>
-</a>
-<a href="https://ollama.com/" title="Ollama (Local LLMs)">
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" width="40" alt="Ollama"/>
-</a>
-<a href="https://cloud.google.com/code" title="Cloud Code (IDE)">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" alt="Cloud Code"/>
-</a>
-<a href="#" title="Bash Scripting">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-</a>
-<a href="#" title="AI Coding Assistants">
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" width="40" alt="AI Tools"/>
-</a>
-</td>
-<!-- COLUMNA 2: Desarrollo Mobile -->
-<td align="center" width="33%">
-  <p align="center"><b style="font-size: 1.5em;">📱 DESARROLLO MOVIL</b></p>
-  <a href="https://reactnative.dev/" title="React Native">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React Native"/>
-  </a>
-  <a href="https://flutter.dev/" title="Flutter/Dart">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
-  </a>
-  <!-- Espacio para agregar más tecnologías mobile si es necesario -->
-</td>
-<!-- COLUMNA 3: (Reservado para expansión futura) -->
-<td align="center" width="33%">
-  <p align="center"><b style="font-size: 1.5em;">🔜 Próximamente</b></p>
-  <p style="font-size: 0.9em; color: #666;">
-    <em>Espacio para nuevas tecnologías<br>o certificaciones</em>
-  </p>
-  <!-- Ejemplo de cómo agregar un nuevo ítem:
-  <a href="URL" title="Descripción">
-    <img src="URL_ICONO" width="40" alt="Nombre"/>
-  </a>
-  -->
-</td>
-</tr>
+  <!-- ═══════════════════════════════════════════════════════════════════ -->
+  <!-- FILA 1: Desarrollo Base (Lenguajes • Frontend • Backend) -->
+  <!-- ═══════════════════════════════════════════════════════════════════ -->
+  <tr>
+    <!-- CELDA 1: 💻 LENGUAJES DE PROGRAMACIÓN -->
+    <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        <b style="font-size: 1.3em;">💻 LENGUAJES PROGRAMACIÓN</b>
+      </p>
+      <a href="https://www.python.org/" title="Python 3.10+"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/></a>&nbsp;
+      <a href="https://dotnet.microsoft.com/languages/csharp" title="C# .NET"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"/></a>&nbsp;
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript ES2022"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/></a>&nbsp;
+      <a href="https://www.typescriptlang.org/" title="TypeScript 5+"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/></a>&nbsp;
+      <a href="https://dart.dev/" title="Dart"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" alt="Dart"/></a>&nbsp;
+      <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/></a>&nbsp;
+      <a href="https://www.swift.org/" title="Swift"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" alt="Swift"/></a>&nbsp;
+      <a href="https://docs.oracle.com/javase/" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/></a>
+    </td>
+    <!-- CELDA 2: 🎨 FRONTEND & UI -->
+    <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        <b style="font-size: 1.3em;">🎨 FRONTEND & UI</b>
+      </p>
+      <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS"/></a>&nbsp;
+      <a href="https://html.spec.whatwg.org/" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML"/></a>&nbsp;
+      <a href="https://vuejs.org/" title="Vue.js 3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue"/></a>&nbsp;
+      <a href="https://astro.build/" title="Astro"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="40" alt="Astro"/></a>&nbsp;
+      <a href="https://react.dev/" title="React 18+"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/></a>&nbsp;
+      <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind"/></a>&nbsp;
+      <a href="https://flutter.dev/" title="Flutter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/></a>
+    </td>
+    <!-- CELDA 3: ⚙️ BACKEND & APIs -->
+    <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        <b style="font-size: 1.3em;">⚙️ BACKEND & APIs</b>
+      </p>
+      <a href="https://www.djangoproject.com/" title="Django 5+"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django"/></a>&nbsp;
+      <a href="https://www.django-rest-framework.org/" title="Django REST Framework"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" height="40" alt="DRF"/></a>&nbsp;
+      <a href="https://django-ninja.dev/" title="Django Ninja"><img src="https://django-ninja.dev/img/docs-logo.png" width="40" alt="Django Ninja"/></a>&nbsp;
+      <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/></a>&nbsp;
+      <a href="https://dotnet.microsoft.com/" title=".NET 8"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" alt=".NET"/></a>&nbsp;
+      <a href="https://quarkus.io/" title="Quarkus"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" width="40" alt="Quarkus"/></a>
+    </td>
+  </tr>
+  <!-- ═══════════════════════════════════════════════════════════════════ -->
+  <!-- FILA 2: Datos • Arquitectura • Cloud -->
+  <!-- ═══════════════════════════════════════════════════════════════════ -->
+  <tr>
+    <!-- CELDA 4: 🗄️ BASE DE DATOS -->
+    <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        <b style="font-size: 1.3em;">🗄️ BASE DE DATOS</b>
+      </p>
+      <a href="https://www.microsoft.com/sql-server" title="SQL Server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server"/></a>&nbsp;
+      <a href="https://www.postgresql.org/" title="PostgreSQL 15+"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/></a>&nbsp;
+      <a href="https://www.oracle.com/database/" title="Oracle DB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/></a>&nbsp;
+      <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/></a>&nbsp;
+      <a href="https://www.sqlite.org/" title="SQLite"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/></a>&nbsp;
+      <a href="https://mariadb.org/" title="MariaDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="40" alt="MariaDB"/></a>
+    </td>
+    <!-- CELDA 5: 🧩 FULLSTACK FRAMEWORKS -->
+    <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        <b style="font-size: 1.3em;">🧩 FULLSTACK</b>
+      </p>
+      <a href="https://www.djangoproject.com/" title="Django Fullstack"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django"/></a>&nbsp;
+      <a href="https://nestjs.com/" title="NestJS (Node.js)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" alt="NestJS"/></a>&nbsp;
+      <a href="https://dotnet.microsoft.com/" title=".NET FullStack"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET Core"/></a>
+    </td>
+    <!-- CELDA 6: ☁️ CLOUD & HOSTING -->
+    <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        <b style="font-size: 1.3em;">☁️ CLOUD & HOSTING</b>
+      </p>
+      <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/></a>&nbsp;
+      <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" alt="Azure"/></a>&nbsp;
+      <a href="https://aws.amazon.com/" title="Amazon Web Services"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/></a>&nbsp;
+      <a href="https://www.heroku.com/" title="Heroku"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="40" alt="Heroku"/></a>&nbsp;
+      <a href="https://vercel.com/" title="Vercel"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" alt="Vercel"/></a>&nbsp;
+      <a href="https://railway.app/" title="Railway.app"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" width="40" alt="Railway"/></a>
+    </td>
+  </tr>
+  <!-- ═══════════════════════════════════════════════════════════════════ -->
+  <!-- FILA 3: DevOps • Automatización • Infraestructura -->
+  <!-- ═══════════════════════════════════════════════════════════════════ -->
+  <tr>
+    <!-- CELDA 7: ⚡ CI/CD & DEVOPS -->
+    <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        <b style="font-size: 1.3em;">⚡ DEVOPS</b>
+      </p>
+      <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" alt="GitHub Actions"/></a>&nbsp;
+      <a href="https://about.gitlab.com/" title="GitLab CI"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/></a>&nbsp;
+      <!-- Jenkins: descomentar si lo usas activamente
+      <a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/></a>&nbsp;
+      -->
+      <a href="https://azure.microsoft.com/products/devops/pipelines/" title="Azure Pipelines"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" alt="Azure DevOps"/></a>
+    </td>
+    <!-- CELDA 8: 🤖 AUTOMATIZACIÓN & TESTING -->
+    <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        <b style="font-size: 1.3em;">🤖 AUTOMATIZACIÓN</b>
+      </p>
+      <a href="https://www.python.org/" title="Python Scripting"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/></a>&nbsp;
+      <a href="https://playwright.dev/" title="Playwright E2E"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40" alt="Playwright"/></a>
+      <!-- Selenium: descomentar si lo usas
+      <a href="https://www.selenium.dev/" title="Selenium"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" alt="Selenium"/></a>
+      -->
+    </td>
+    <!-- CELDA 9: 🐳 INFRAESTRUCTURA & MONITORING -->
+    <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        <b style="font-size: 1.3em;">🐳 INFRAESTRUCTURA</b>
+      </p>
+      <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/></a>&nbsp;
+      <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/></a>
+      <!-- Tecnologías comentadas: descomentar si las usas
+      <a href="https://www.terraform.io/" title="Terraform"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/></a>&nbsp;
+      <a href="https://www.ansible.com/" title="Ansible"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" alt="Ansible"/></a>&nbsp;
+      <a href="https://www.nginx.com/" title="Nginx"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" alt="Nginx"/></a>&nbsp;
+      <a href="https://grafana.com/" title="Grafana"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" alt="Grafana"/></a>
+      -->
+      <a href="https://www.linux.org/" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/></a>
+    </td>
+  </tr>
+  
+  <!-- ═══════════════════════════════════════════════════════════════════ -->
+  <!-- FILA 4: Herramientas • Mobile • Espacio Futuro -->
+  <!-- ═══════════════════════════════════════════════════════════════════ -->
+  <tr>
+    <!-- CELDA 10: 🧰 HERRAMIENTAS & PRODUCTIVIDAD -->
+    <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        <b style="font-size: 1.3em;">🧰 HERRAMIENTAS</b>
+      </p>
+      <br/>
+      <a href="https://www.notion.so/" title="Notion"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="40" alt="Notion"/></a>&nbsp;
+      <a href="https://www.microsoft.com/microsoft-teams/" title="Teams"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Microsoft_Office_Teams_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Teams_%282025%E2%80%93present%29.svg.png" width="40" alt="Teams"/></a>&nbsp;
+      <a href="https://telegram.org/" title="Telegram"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" alt="Telegram"/></a>&nbsp;
+      <a href="https://workspace.google.com/" title="Google Workspace"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" alt="Google Workspace"/></a>&nbsp;
+      <a href="https://ollama.com/" title="Ollama"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" width="40" alt="Ollama"/></a>&nbsp;
+      <a href="https://cloud.google.com/code" title="Cloud Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" alt="Cloud Code"/></a>&nbsp;
+      <a href="#" title="Bash"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" alt="Bash"/></a>&nbsp;
+      <a href="#" title="AI Tools"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" width="40" alt="AI Tools"/></a>
+    </td>
+    <!-- CELDA 11: 📱 DESARROLLO MÓVIL -->
+    <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        <b style="font-size: 1.3em;">📱 MÓVIL</b>
+      </p>
+      <br/>
+      <a href="https://reactnative.dev/" title="React Native"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React Native"/></a>&nbsp;
+      <a href="https://flutter.dev/" title="Flutter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/></a>
+      <!-- Espacio para agregar más tecnologías mobile si es necesario -->
+    </td>
+    <!-- CELDA 12: 🔜 PRÓXIMAMENTE -->
+    <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        <b style="font-size: 1.3em;">🔜 PRÓXIMAMENTE</b>
+      </p>
+      <br/>
+      <p style="font-size: 0.95em; color: #666; margin: 8px 0 0 0;">
+        <em>Espacio para nuevas<br/>tecnologías o certificaciones</em>
+      </p>
+      <!-- Ejemplo para agregar nuevo ítem:
+      <a href="URL" title="Descripción">
+        <img src="URL_ICONO" width="40" alt="Nombre"/>
+      </a>
+      -->
+    </td>
+  </tr>
+  
 </table>
 
 <!--
@@ -647,46 +662,16 @@ width="100%"/>
 ================================================================================
 -->
 
-<p align="center">
-<b style="font-size: 2em;">📬 Conecta Conmigo 🤝</b>
-</p>
+<p align="center"><b style="font-size: 2em;">📬 Conecta con migo 🤝</b></p>
 
 <p align="center">
-<!-- Email: enlace mailto con badge de Gmail -->
-<a href="mailto:waltercunbustamante@gmail.com" title="Enviar email profesional">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"
-alt="Enviar email a waltercunbustamante@gmail.com"
-height="25"/>
-</a>
-
-<!-- GitHub: enlace a tu perfil -->
-<a href="https://github.com/WalterCun" title="Ver mi perfil completo en GitHub">
-<img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"
-alt="Perfil de GitHub: @WalterCun"
-height="25"/>
-</a>
-
-<!-- WhatsApp: enlace directo con formato internacional Ecuador (+593) -->
-<a href="https://wa.me/593996146471" title="Mensaje por WhatsApp (Ecuador +593)">
-<img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white"
-alt="Contactar por WhatsApp"
-height="25"/>
-</a>
-
-<!-- LinkedIn: enlace a tu perfil profesional -->
-<a href="https://www.linkedin.com/in/waltercun/" title="Conectar en LinkedIn">
-<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"
-alt="Perfil de LinkedIn: /in/waltercun"
-height="25"/>
-</a>
-
-<!-- Redes sociales opcionales (comentadas para mantener enfoque profesional) -->
-<!-- <a href="https://www.facebook.com/7oSkaaa">
-<img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" height="25"/>
-</a> -->
-<!-- <a href="https://www.instagram.com/ahmed_7oskaa/">
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" height="25"/>
-</a> -->
+	<a href="mailto:waltercunbustamante@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="25px"/></a>
+	<a href="https://github.com/WalterCun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" height="25px"/></a>
+	<a href="https://wa.me/593996146471"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" height="25px"/></a>
+	<a href="https://www.linkedin.com/in/waltercun/"><img title="Linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="25px"/></a>
+	<!-- <a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" height="25px"/></a> -->
+	<!-- <a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" height="25px"/></a> -->
+	<!-- <a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat" height="25px"/></a> -->
 </p>
 
 <!--
