@@ -1,12 +1,3 @@
-<style>
-   @import url('https://fonts.googleapis.com');
-  
-  body {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 16px;
-  }
-</style>
-
 <!-- 
 ================================================================================
 📄 README.md - Perfil de GitHub: WalterCun
