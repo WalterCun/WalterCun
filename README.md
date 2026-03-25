@@ -1,23 +1,31 @@
+<!-- Idiomas -->
+<!-- Ref: https://flagicons.lipis.dev/ -->
+<div align="right">
+<a href="i18n/README.en.md" title="Ingles">
+  <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="Ingles" width="32" height="24">
+</a>
+
+</div>
+
 <!-- 🎯 Header Animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Walter+Cun+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Walter+Cun+%F0%9F%91%8B;Desarrollador+Full+Stack+%F0%9F%92%BB;Construyendo+Soluciones+Escalables+%F0%9F%9A%80;Contribuyente+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </h1>
-
-<!-- 🎨 Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+my+GitHub!&fontSize=26&fontAlignY=35&animation=twinkling&fontColor=white" alt="header"/>
-</p>
 
 <!-- 🏷️ Badges de Estado -->
 <p align="center">
-  <img src="https://img.shields.io/badge/👨%20💻-Available%20for%20work-blue?style=for-the-badge" alt="Available"/>
-  <img src="https://img.shields.io/badge/🌍-Remote%20Friendly-green?style=for-the-badge" alt="Remote"/>
-  <img src="https://komarev.com/ghpvc/?username=WalterCun&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Views"/>
+  <a href="mailto:tu@email.com" title="Contáctame para colaborar">
+    <img src="https://img.shields.io/badge/👨%20💻-Disponible_para_trabajar-blue?style=for-the-badge" alt="Disponible para trabajar"/>
+  </a>
+  <img src="https://img.shields.io/badge/🌍-Remoto_Friendly-green?style=for-the-badge" alt="Trabajo remoto"/>
+  <a href="https://github.com/WalterCun" title="Visita mi perfil en GitHub">
+    <img src="https://komarev.com/ghpvc/?username=WalterCun&label=👁️+Visitas+al+Perfil&color=0e75b6&style=for-the-badge&logo=github" alt="Visitas al perfil"/>
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre Mí
+##🧑‍💻 Sobre Mí
 
 name: Walter Cun
 location: 🌎 Tu Ubicación
@@ -29,8 +37,9 @@ focus:
   - 🔐 Security Best Practices
   - 🌐 Open Source
 
-💬 "Clean code is not written by following rules. It's written by caring."
-🛠️ Tech Stack
+
+# 🛠️ Tech Stack
+
 <p align="center">
 <!-- Lenguajes -->
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -56,7 +65,9 @@ focus:
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actions"/>
 </p>
 
-📊 GitHub Stats (Dinámicas - Se actualizan cada 24h)
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=WalterCun&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalterCun&theme=radical&hide_border=true" alt="Streak Stats" height="180"/>
