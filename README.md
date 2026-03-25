@@ -324,9 +324,8 @@ CONOCIMIENTO TECNOLÓGICO
   <tr>
     <!-- CELDA 1: 💻 LENGUAJES DE PROGRAMACIÓN -->
     <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
-      <p align="center" style="margin: 0 0 12px 0;">
-        <b style="font-size: 1.3em;">💻 LENGUAJES PROGRAMACIÓN</b>
-      </p>
+      <p align="center" style="margin: 0 0 12px 0;"><b style="font-size: 1.3em;">💻 LENGUAJES PROGRAMACIÓN</b></p>
+      <br>
       <a href="https://www.python.org/" title="Python 3.10+"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/></a>&nbsp;
       <a href="https://dotnet.microsoft.com/languages/csharp" title="C# .NET"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"/></a>&nbsp;
       <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript ES2022"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/></a>&nbsp;
@@ -338,9 +337,8 @@ CONOCIMIENTO TECNOLÓGICO
     </td>
     <!-- CELDA 2: 🎨 FRONTEND & UI -->
     <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
-      <p align="center" style="margin: 0 0 12px 0;">
-        <b style="font-size: 1.3em;">🎨 FRONTEND & UI</b>
-      </p>
+      <p align="center" style="margin: 0 0 12px 0;"><b style="font-size: 1.3em;">🎨 FRONTEND & UI</b></p>
+      <br>
       <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS"/></a>&nbsp;
       <a href="https://html.spec.whatwg.org/" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML"/></a>&nbsp;
       <a href="https://vuejs.org/" title="Vue.js 3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue"/></a>&nbsp;
@@ -351,9 +349,8 @@ CONOCIMIENTO TECNOLÓGICO
     </td>
     <!-- CELDA 3: ⚙️ BACKEND & APIs -->
     <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
-      <p align="center" style="margin: 0 0 12px 0;">
-        <b style="font-size: 1.3em;">⚙️ BACKEND & APIs</b>
-      </p>
+      <p align="center" style="margin: 0 0 12px 0;"><b style="font-size: 1.3em;">⚙️ BACKEND & APIs</b></p>
+      <br>
       <a href="https://www.djangoproject.com/" title="Django 5+"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django"/></a>&nbsp;
       <a href="https://www.django-rest-framework.org/" title="Django REST Framework"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" height="40" alt="DRF"/></a>&nbsp;
       <a href="https://django-ninja.dev/" title="Django Ninja"><img src="https://django-ninja.dev/img/docs-logo.png" width="40" alt="Django Ninja"/></a>&nbsp;
@@ -368,9 +365,8 @@ CONOCIMIENTO TECNOLÓGICO
   <tr>
     <!-- CELDA 4: 🗄️ BASE DE DATOS -->
     <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
-      <p align="center" style="margin: 0 0 12px 0;">
-        <b style="font-size: 1.3em;">🗄️ BASE DE DATOS</b>
-      </p>
+      <p align="center" style="margin: 0 0 12px 0;"><b style="font-size: 1.3em;">🗄️ BASE DE DATOS</b></p>
+      <br>
       <a href="https://www.microsoft.com/sql-server" title="SQL Server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server"/></a>&nbsp;
       <a href="https://www.postgresql.org/" title="PostgreSQL 15+"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/></a>&nbsp;
       <a href="https://www.oracle.com/database/" title="Oracle DB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/></a>&nbsp;
@@ -380,18 +376,16 @@ CONOCIMIENTO TECNOLÓGICO
     </td>
     <!-- CELDA 5: 🧩 FULLSTACK FRAMEWORKS -->
     <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
-      <p align="center" style="margin: 0 0 12px 0;">
-        <b style="font-size: 1.3em;">🧩 FULLSTACK</b>
-      </p>
+      <p align="center" style="margin: 0 0 12px 0;"><b style="font-size: 1.3em;">🧩 FULLSTACK</b></p>
+      <br>
       <a href="https://www.djangoproject.com/" title="Django Fullstack"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django"/></a>&nbsp;
       <a href="https://nestjs.com/" title="NestJS (Node.js)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" alt="NestJS"/></a>&nbsp;
       <a href="https://dotnet.microsoft.com/" title=".NET FullStack"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET Core"/></a>
     </td>
     <!-- CELDA 6: ☁️ CLOUD & HOSTING -->
     <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
-      <p align="center" style="margin: 0 0 12px 0;">
-        <b style="font-size: 1.3em;">☁️ CLOUD & HOSTING</b>
-      </p>
+      <p align="center" style="margin: 0 0 12px 0;"><b style="font-size: 1.3em;">☁️ CLOUD & HOSTING</b></p>
+      <br>
       <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/></a>&nbsp;
       <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" alt="Azure"/></a>&nbsp;
       <a href="https://aws.amazon.com/" title="Amazon Web Services"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/></a>&nbsp;
@@ -406,9 +400,8 @@ CONOCIMIENTO TECNOLÓGICO
   <tr>
     <!-- CELDA 7: ⚡ CI/CD & DEVOPS -->
     <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
-      <p align="center" style="margin: 0 0 12px 0;">
-        <b style="font-size: 1.3em;">⚡ DEVOPS</b>
-      </p>
+      <p align="center" style="margin: 0 0 12px 0;"><b style="font-size: 1.3em;">⚡ DEVOPS</b></p>
+      <br>
       <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" alt="GitHub Actions"/></a>&nbsp;
       <a href="https://about.gitlab.com/" title="GitLab CI"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/></a>&nbsp;
       <!-- Jenkins: descomentar si lo usas activamente
@@ -418,9 +411,8 @@ CONOCIMIENTO TECNOLÓGICO
     </td>
     <!-- CELDA 8: 🤖 AUTOMATIZACIÓN & TESTING -->
     <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
-      <p align="center" style="margin: 0 0 12px 0;">
-        <b style="font-size: 1.3em;">🤖 AUTOMATIZACIÓN</b>
-      </p>
+      <p align="center" style="margin: 0 0 12px 0;"><b style="font-size: 1.3em;">🤖 AUTOMATIZACIÓN</b></p>
+      <br>
       <a href="https://www.python.org/" title="Python Scripting"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/></a>&nbsp;
       <a href="https://playwright.dev/" title="Playwright E2E"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40" alt="Playwright"/></a>
       <!-- Selenium: descomentar si lo usas
@@ -429,9 +421,8 @@ CONOCIMIENTO TECNOLÓGICO
     </td>
     <!-- CELDA 9: 🐳 INFRAESTRUCTURA & MONITORING -->
     <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
-      <p align="center" style="margin: 0 0 12px 0;">
-        <b style="font-size: 1.3em;">🐳 INFRAESTRUCTURA</b>
-      </p>
+      <p align="center" style="margin: 0 0 12px 0;"><b style="font-size: 1.3em;">🐳 INFRAESTRUCTURA</b></p>
+      <br>
       <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/></a>&nbsp;
       <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/></a>
       <!-- Tecnologías comentadas: descomentar si las usas
@@ -450,9 +441,7 @@ CONOCIMIENTO TECNOLÓGICO
   <tr>
     <!-- CELDA 10: 🧰 HERRAMIENTAS & PRODUCTIVIDAD -->
     <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
-      <p align="center" style="margin: 0 0 12px 0;">
-        <b style="font-size: 1.3em;">🧰 HERRAMIENTAS</b>
-      </p>
+      <p align="center" style="margin: 0 0 12px 0;"><b style="font-size: 1.3em;">🧰 HERRAMIENTAS</b></p>
       <br/>
       <a href="https://www.notion.so/" title="Notion"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="40" alt="Notion"/></a>&nbsp;
       <a href="https://www.microsoft.com/microsoft-teams/" title="Teams"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Microsoft_Office_Teams_%282025%E2%80%93present%29.svg/960px-Microsoft_Office_Teams_%282025%E2%80%93present%29.svg.png" width="40" alt="Teams"/></a>&nbsp;
@@ -465,9 +454,7 @@ CONOCIMIENTO TECNOLÓGICO
     </td>
     <!-- CELDA 11: 📱 DESARROLLO MÓVIL -->
     <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
-      <p align="center" style="margin: 0 0 12px 0;">
-        <b style="font-size: 1.3em;">📱 MÓVIL</b>
-      </p>
+      <p align="center" style="margin: 0 0 12px 0;"><b style="font-size: 1.3em;">📱 MÓVIL</b></p>
       <br/>
       <a href="https://reactnative.dev/" title="React Native"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React Native"/></a>&nbsp;
       <a href="https://flutter.dev/" title="Flutter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/></a>
@@ -475,18 +462,9 @@ CONOCIMIENTO TECNOLÓGICO
     </td>
     <!-- CELDA 12: 🔜 PRÓXIMAMENTE -->
     <td align="center" width="33%" style="padding: 16px 12px; vertical-align: top;">
-      <p align="center" style="margin: 0 0 12px 0;">
-        <b style="font-size: 1.3em;">🔜 PRÓXIMAMENTE</b>
-      </p>
+      <p align="center" style="margin: 0 0 12px 0;"><b style="font-size: 1.3em;">🔜 PRÓXIMAMENTE</b></p>
       <br/>
-      <p style="font-size: 0.95em; color: #666; margin: 8px 0 0 0;">
-        <em>Espacio para nuevas<br/>tecnologías o certificaciones</em>
-      </p>
-      <!-- Ejemplo para agregar nuevo ítem:
-      <a href="URL" title="Descripción">
-        <img src="URL_ICONO" width="40" alt="Nombre"/>
-      </a>
-      -->
+      <p style="font-size: 0.95em; color: #666; margin: 8px 0 0 0;"><em>Espacio para nuevas<br/>tecnologías o certificaciones</em></p>
     </td>
   </tr>
   
