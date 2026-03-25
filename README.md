@@ -561,9 +561,159 @@ width="100%"/>
 
 <br>
 
+<!--
+================================================================================
+🏆 ACHIEVEMENTS Y RECONOCIMIENTOS
+• Muestra trofeos, badges y logros de GitHub
+• Incluye certificaciones, hackathons, y hitos profesionales
+• PARAM: Cada widget tiene sus propios parámetros de configuración
+
+🔧 WIDGETS DISPONIBLES:
+
+1. GitHub Profile Trophies (github-profile-trophy.vercel.app)
+   • username: {tu-usuario}
+   • theme: github-dark | radical | dark | tokyonight | flat
+   • column: 4-8 (número de columnas de trofeos)
+   • row: 1-3 (número de filas)
+   • no-bg: true|false (fondo transparente)
+   • no-frame: true|false (sin marco exterior)
+   • margin-w: 10-20 (margen horizontal entre trofeos)
+   • margin-h: 10-20 (margen vertical entre trofeos)
+   🔗 Temas: https://github.com/ryo-ma/github-profile-trophy
+
+2. GitHub Badges Personalizados (shields.io)
+   • label: Texto izquierdo del badge
+   • message: Texto derecho (el logro)
+   • color: Hex sin # o nombre predefinido
+   • logo: Logo de simpleicons.org
+   • style: for-the-badge | flat | flat-square | plastic
+
+3. Certificaciones
+   • Usar badges con logo oficial de la certificación
+   • Incluir año de obtención
+   • Enlace a credencial verificable (si existe)
+
+🎨 Paleta de colores para logros:
+• 🥇 Oro / Primer lugar: #FFD700
+• 🥈 Plata / Segundo lugar: #C0C0C0
+• 🥉 Bronce / Tercer lugar: #CD7F32
+• ✅ Completado: #008080
+• 🎓 Educación: #007396
+• 🏅 Reconocimiento: #8B5CF6
+
+🔗 Referencias:
+• GitHub Trophies: https://github.com/ryo-ma/github-profile-trophy
+• Shields.io: https://shields.io/
+• Simple Icons: https://simpleicons.org/
+================================================================================
+-->
+
+<br>
+
 <!-- Separador visual decorativo -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=80%" alt="Separador"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=80%" alt="Separador"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b style="font-size: 2em;">
+    <img src="https://media.giphy.com/media/d114ZxH1X9l9QyFjW/giphy.gif" width="30" alt="Icono trofeos">
+    🏆 Achievements y Reconocimientos
+  </b>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SUBSECCIÓN 1: GitHub Profile Trophies (Widget automático) -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!-- PARAM: Trofeos de GitHub basados en tus estadísticas reales -->
+<!-- theme: github-dark | radical | dark | tokyonight | flat | gitdimmed -->
+<!-- column: número de columnas (4-8 recomendado) -->
+<!-- row: número de filas (1-2 recomendado) -->
+<!-- no-bg: true para fondo transparente -->
+<!-- no-frame: true para sin borde exterior -->
+<!-- margin-w: margen horizontal entre trofeos (px) -->
+<!-- margin-h: margen vertical entre trofeos (px) -->
+
+<!-- <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=WalterCun&theme=github-dark&column=6&row=2&no-bg=true&no-frame=true&margin-w=15&margin-h=15" 
+         alt="GitHub Profile Trophies - Logros automáticos basados en estadísticas"
+         title="Trofeos de GitHub"/>
+  </a>
+</p> -->
+
+<!-- <br> -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SUBSECCIÓN 2: Logros Destacados (Badges personalizados) -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!-- PARAM: Badges manuales para logros específicos que quieres resaltar -->
+<!-- Estos NO son automáticos, los editas tú cuando alcanzas un hito -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📦-10%2B_Repos_Públicos-008080?style=for-the-badge&logo=github&logoColor=white" 
+       alt="10+ repositorios públicos"/>
+  <!-- Logro 3: Contribuciones -->
+  <img src="https://img.shields.io/badge/🤝-Open_Source_Contributor-008080?style=for-the-badge&logo=github&logoColor=white" 
+       alt="Contribuyente Open Source"/>
+  <!-- Logro 4: Racha de commits -->
+  <img src="https://img.shields.io/badge/🔥-50%2B_Días_Racha-FF6B6B?style=for-the-badge&logo=github&logoColor=white" 
+       alt="50+ días de racha"/>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SUBSECCIÓN 4: Hitos Profesionales (Timeline visual) -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!-- PARAM: Timeline de hitos importantes en tu carrera -->
+<!-- Formato: Año + Logro + Breve descripción -->
+
+<p align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="25%">
+        <b style="font-size: 1.5em;">🎓 2019</b>
+        <br/>
+        <small>Inicio de Carrera</small>
+        <br/>
+        <em style="color: #666; font-size: 0.9em;">Primer proyecto profesional</em>
+      </td>
+      <td align="center" width="25%">
+        <b style="font-size: 1.5em;">🚀 2021</b>
+        <br/>
+        <small>Senior Developer</small>
+        <br/>
+        <em style="color: #666; font-size: 0.9em;">Promoción a Senior</em>
+      </td>
+      <td align="center" width="25%">
+        <b style="font-size: 1.5em;">🌍 2023</b>
+        <br/>
+        <small>Freelance Global</small>
+        <br/>
+        <em style="color: #666; font-size: 0.9em;">Clientes internacionales</em>
+      </td>
+      <td align="center" width="25%">
+        <b style="font-size: 1.5em;">🏆 2026</b>
+        <br/>
+        <small>Meta Actual</small>
+        <br/>
+        <em style="color: #666; font-size: 0.9em;">Arquitecto de Software</em>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br>
+
+<!-- Separador visual decorativo -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=80%" alt="Separador"/>
 </p>
 
 <br>
