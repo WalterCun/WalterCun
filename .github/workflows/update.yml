@@ -1,0 +1,61 @@
+name: 🔄 Auto-Update Profile Projects
+
+on:
+  schedule:
+    # Ejecutar diariamente a las 6:00 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Permitir ejecución manual desde UI
+
+# Permisos necesarios para escribir en el repositorio
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: 🔄 Run update script
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run dev
+
+      - name: 💾 Commit & Push changes
+        run: |
+          git config --global user.name "GitHub Actions[bot]"
+          git config --global user.email "actions@github.com"
+          
+          if git diff --quiet README.md; then
+            echo "✅ No changes detected in README.md"
+          else
+            echo "📝 Changes detected, committing..."
+            git add README.md
+            git commit -m "🤖 Auto-update: Featured projects [skip ci]"
+            git push
+            echo "✅ README.md pushed successfully"
+          fi
+
+      - name: 📊 Report status
+        if: always()
+        run: |
+          echo "📋 Execution Summary:"
+          echo "  • Repository: ${{ github.repository }}"
+          echo "  • Trigger: ${{ github.event_name }}"
+          echo "  • Timestamp: $(date -u '+%Y-%m-%d %H:%M UTC')"
