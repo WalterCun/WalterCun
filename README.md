@@ -264,11 +264,10 @@ if __name__ == "__main__":
 <br>
 <br>
 
-
 <p align="center">
 <b style="font-size: 2em;">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" alt="Icono tecnología">
-Conocimiento Tecnológico
+CONOCIMIENTO TECNOLÓGICO
 </b>
 </p>
 
@@ -301,7 +300,6 @@ Conocimiento Tecnológico
   <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind"/></a>
   <a href="https://flutter.dev/" title="Flutter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/></a>
 </td>
-
 <!-- COLUMNA 3: Backend & APIs -->
 <td align="center" width="33%">
   <p align="center"><b style="font-size: 1.5em;">⚙️ BACKEND & APIs</b></p>
@@ -312,7 +310,6 @@ Conocimiento Tecnológico
   <a href="https://dotnet.microsoft.com/" title=".NET 8"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" alt=".NET"/></a>
   <a href="https://quarkus.io/" title="Quarkus"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" width="40" alt="Quarkus"/></a>
 </td>
-
 </tr>
 </table>
 
@@ -331,7 +328,6 @@ Conocimiento Tecnológico
 <a href="https://www.sqlite.org/" title="SQLite"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/></a>
 <a href="https://mariadb.org/" title="MariaDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="40" alt="MariaDB"/></a>
 </td>
-
 <!-- COLUMNA 2: FullStack Frameworks -->
 <td align="center" width="33%">
   <p align="center"><b style="font-size: 1.5em;">🧩 FULLSTACK</b></p>
@@ -345,7 +341,6 @@ Conocimiento Tecnológico
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET Core"/>
   </a>
 </td>
-
 <!-- COLUMNA 3: Cloud & Hosting -->
 <td align="center" width="33%">
   <p align="center"><b style="font-size: 1.5em;">☁️ CLAUD & HOSTING</b></p>
@@ -368,7 +363,6 @@ Conocimiento Tecnológico
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" width="40" alt="Railway"/>
   </a>
 </td>
-
 </tr>
 </table>
 
@@ -394,7 +388,6 @@ Conocimiento Tecnológico
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" alt="Azure DevOps"/>
 </a>
 </td>
-
 <!-- COLUMNA 2: Automatización & Testing -->
 <td align="center" width="33%">
   <p align="center"><b style="font-size: 1.5em;">🤖 AUTOMATIZACIÓN</b></p>
@@ -408,7 +401,6 @@ Conocimiento Tecnológico
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" alt="Selenium"/>
   </a> -->
 </td>
-
 <!-- COLUMNA 3: Infraestructura & Monitoring -->
 <td align="center" width="33%">
   <p align="center"><b style="font-size: 1.5em;">🐳 INFRAESTRUCTURA</b></p>
@@ -434,7 +426,6 @@ Conocimiento Tecnológico
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   </a>
 </td>
-
 </tr>
 </table>
 
@@ -471,7 +462,6 @@ Conocimiento Tecnológico
 <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" width="40" alt="AI Tools"/>
 </a>
 </td>
-
 <!-- COLUMNA 2: Desarrollo Mobile -->
 <td align="center" width="33%">
   <p align="center"><b style="font-size: 1.5em;">📱 DESARROLLO MOVIL</b></p>
@@ -483,7 +473,6 @@ Conocimiento Tecnológico
   </a>
   <!-- Espacio para agregar más tecnologías mobile si es necesario -->
 </td>
-
 <!-- COLUMNA 3: (Reservado para expansión futura) -->
 <td align="center" width="33%">
   <p align="center"><b style="font-size: 1.5em;">🔜 Próximamente</b></p>
@@ -496,7 +485,6 @@ Conocimiento Tecnológico
   </a>
   -->
 </td>
-
 </tr>
 </table>
 
