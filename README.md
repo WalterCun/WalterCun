@@ -303,9 +303,7 @@ CONOCIMIENTO TECNOLÓGICO
 </td>
 </tr>
 </table>
-
 <br>
-
 <!-- TABLA 2/4: Bases de Datos • FullStack • Cloud -->
 <table width="100%">
 <tr>
