@@ -292,7 +292,7 @@ if __name__ == "__main__":
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=WalterCun&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=es" alt="GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=WalterCun&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
         <!-- <img align="center"  src="https://github-readme-stats.vercel.app/api?username=WalterCun&theme=radical&show_icons=true&count_private=true" /> -->
         <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WalterCun&show_icons=true&theme=dark&locale=es&layout=compact" alt="WalterCun" /> -->
         <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=WalterCun&show_icons=true&theme=dark&locale=es" alt="WalterCun" /> -->
